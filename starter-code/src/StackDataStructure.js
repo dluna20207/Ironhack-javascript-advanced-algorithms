@@ -51,7 +51,4 @@ stack.length = 10;
 
 function StackDataStructure() {
 
-
-    stack.pop();
-
 }
